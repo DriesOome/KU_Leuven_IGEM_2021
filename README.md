@@ -1,5 +1,8 @@
 # IPDE Sim 
 ## By KU_Leuven Igem 2021
+#### The program
+This program is a CLI interface which allows the user to change parameters of the IPDE model we created. Further details about the model can be found on https://2021.igem.org/Team:KU_Leuven/Model
+For your convenience, the .exe file has already been compiled and residues in the "Compiled program" folder. 
 #### Compiling the .exe file using visual studio community edition
 1) Open visual studio community edition
 2) Press option "open a project or solution"
