@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="CellVariant.cpp" />
+    <ClCompile Include="CLI.cpp" />
+    <ClCompile Include="Culture.cpp" />
+    <ClCompile Include="Gene.cpp" />
+    <ClCompile Include="ModellingDE.cpp" />
+    <ClCompile Include="ProgressBar.cpp" />
+    <ClCompile Include="csvRecordCellVar.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CellVariant.h" />
+    <ClInclude Include="CLI.h" />
+    <ClInclude Include="Culture.h" />
+    <ClInclude Include="Gene.h" />
+    <ClInclude Include="ProgressBar.h" />
+    <ClInclude Include="csvRecordCellVar.h" />
+  </ItemGroup>
+</Project>
