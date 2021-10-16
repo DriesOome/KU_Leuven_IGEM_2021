@@ -8,3 +8,4 @@
 ![tempfig](https://user-images.githubusercontent.com/57561283/137587282-fec5f4df-a114-4535-8bbd-1671434e50c4.PNG)
 4) In the top left, change the "Debug" setting to "Release" (enables compiler optimization, code runs faster)
 5) In the top navigation bar, go to build -> build solution 
+6) The .exe file should appear in the same directory as the git repo, inside the folder "Compiled program".
